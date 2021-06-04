@@ -1,4 +1,4 @@
-const algoliaPlacesApiAppId = 'pl2SGSMUF59J';
+const algoliaPlacesApiAppId = 'pl.2SGSMUF59J';
 const algoliaPlacesApiKey = '37d6c5e53fb2ef40b4f6c54dfefc9370';
 const mapboxApiToken = 'pk.eyJ1Ijoid2lsbGRhbWFubiIsImEiOiJja3BpNnd4Z3Ayc2t4MnJsbG5udWpzOGQwIn0.-pVVOAmEy5UbJ41nsxLtxg';
 const taxiFareApiUrl = 'https://dockimg-ygbd5snlnq-nw.a.run.app/predict';
