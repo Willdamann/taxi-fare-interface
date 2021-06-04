@@ -1,7 +1,7 @@
-const algoliaPlacesApiAppId = 'plU4N8HG6QWK';
-const algoliaPlacesApiKey = '1131438afb49f60a48ed468c5af189b8';
-const mapboxApiToken = 'pk.eyJ1Ijoia3Jva3JvYiIsImEiOiJja2YzcmcyNDkwNXVpMnRtZGwxb2MzNWtvIn0.69leM_6Roh26Ju7Lqb2pwQ';
-const taxiFareApiUrl = 'http://localhost:8000/predict';
+const algoliaPlacesApiAppId = '2SGSMUF59J';
+const algoliaPlacesApiKey = 'b4e1ee4185a6fe269069dad311cc8f40';
+const mapboxApiToken = 'pk.eyJ1Ijoid2lsbGRhbWFubiIsImEiOiJja3BpNmdod2QwOHEzMm5vM2p3Z3FwaHVnIn0.34Hla5dr200-DpTIavmrKg';
+const taxiFareApiUrl = 'https://dockimg-ygbd5snlnq-nw.a.run.app/predict';
 
 const displayMap = (start, stop) => {
   mapboxgl.accessToken = mapboxApiToken;
